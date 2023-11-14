@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Knapsack.Console
+/Knapsack.Forms/bin/Debug/net7.0-windows
+/Knapsack.Forms/obj
+/Knapsack.Library/bin/Debug/net7.0
+/Knapsack.Library/obj
